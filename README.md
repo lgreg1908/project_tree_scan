@@ -130,4 +130,4 @@ Feel free to fork this project, make improvements, and submit pull requests. We 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
